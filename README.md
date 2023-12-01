@@ -1,7 +1,7 @@
 # AmongUsSteam
 
 Róźne Wersje Among Us(Steam)                    
-7.12s: 
+Steam TOR v4.4.2:
 
 Poradnik Steam :                    
 Grę należy wypakować i odpalić z folderu. Trzeba mieć odpalonego Steam'a w tle.                                                    
